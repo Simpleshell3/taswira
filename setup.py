@@ -31,6 +31,7 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/moja-global/taswira",
+    license="MPL2",
     author="moja global",
     classifiers=[
         'Development Status :: 3 - Alpha',
